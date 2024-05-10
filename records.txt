@@ -1,0 +1,29 @@
+1
+John Smith
+New York, NY 10001
+123 Main Street
+Apartment 1B
+
+3
+Daniel Garcia
+Seattle, WA 98101
+789 Oak Street
+Suite 10
+
+5
+James Miller
+Denver, CO 80202
+202 Pine Street
+Unit 5A
+
+7
+William Wilson
+Chicago, IL 60611
+567 Maple Lane
+Apartment 7C
+
+9
+Michael Taylor
+Houston, TX 77002
+789 Birch Avenue
+
